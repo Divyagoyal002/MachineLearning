@@ -20,14 +20,6 @@ Finnovative is your ultimate destination for revolutionizing the way you manage 
 - Connect all your financial accounts in one place for seamless integration and real-time updates.
 - Integrate with popular payment services and banking platforms for effortless transactions.
 
-### 🤝 Collaborative Tools
-- Collaborate with experts, friends, and family members to optimize your financial strategy.
-- Share insights, discuss opportunities, and work together towards financial success.
-
-### 📚 Educational Resources
-- Access a wealth of educational resources, including interactive simulations, video lectures, and informative articles.
-- Enhance your financial literacy and make smarter decisions with Finnovative.
-
 ## Getting Started
 
 ### Installation
@@ -47,6 +39,16 @@ We welcome contributions from the community to help improve Finnovative and make
 
 ## Support
 If you encounter any issues or have questions about using Finnovative, don't hesitate to reach out to our support team. We're here to help you succeed on your financial journey!
+
+## Future Prospectives
+
+### 🤝 Collaborative Tools
+- Collaborate with experts, friends, and family members to optimize your financial strategy.
+- Share insights, discuss opportunities, and work together towards financial success.
+
+### 📚 Educational Resources
+- Access a wealth of educational resources, including interactive simulations, video lectures, and informative articles.
+- Enhance your financial literacy and make smarter decisions with Finnovative.
 
 ## License
 Finnovative is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
