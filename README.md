@@ -1,6 +1,6 @@
 **Welcome to Finnovative - Your Innovative Finance Solution!**
 
-Finnovative is your one-stop destination for all your finance concerns, offering cutting-edge solutions to empower you on your financial journey. With a focus on innovation and user-centric design, Finnovative revolutionizes the way you manage your finances, invest your money, and plan for the future.
+Finnovative is your one-stop destination for all your finance concerns, offering cutting-edge solutions to empower you on your financial journey. With a focus on innovation and user-centric design, Finnovative revolutionizes the way you manage your finances, invest your money,track your expenses and plan for the future.
 
 ## Features
 
