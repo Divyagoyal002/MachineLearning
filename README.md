@@ -4,7 +4,7 @@ Finnovative is your ultimate destination for revolutionizing the way you manage 
 
 ## Features
 
-### 📊 Intuitive Dashboard
+### 📊 Self-Explanatory Dashboard
 - Experience finance management like never before with our sleek and intuitive dashboard.
 - Track expenses, monitor savings, and analyze investments with ease.
 
