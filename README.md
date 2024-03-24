@@ -41,7 +41,3 @@ Support vector machine (SVM) is a supervised learning algorithm used for classif
 ## Train-Test Dataset Split
 
 The train-test dataset split is a technique used to evaluate machine learning models. The dataset is divided into two subsets: the training set, used to train the model, and the test set, used to evaluate the model's performance on unseen data.
-
-```
-
-Feel free to add more details or examples to each section as needed.
